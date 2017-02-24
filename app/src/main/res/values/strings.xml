@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Contacts</string>
+    <string name="contact1">Cody Hanson</string>
+    <string name="contact2">Ashley Radke</string>
+    <string name="contact3">Cory Lovelett</string>
+    <string name="phone1">9522173148</string>
+    <string name="phone2">7632663560</string>
+    <string name="phone3">9522886268</string>
+</resources>
